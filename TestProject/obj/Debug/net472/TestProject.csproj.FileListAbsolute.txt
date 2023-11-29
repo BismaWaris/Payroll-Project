@@ -1,0 +1,39 @@
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\NUnit3.TestAdapter.dll
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\NUnit3.TestAdapter.pdb
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\nunit.engine.dll
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\nunit.engine.api.dll
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\TestProject.dll.config
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\TestProject.dll
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\TestProject.pdb
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\nunit.framework.dll
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\OO programming.exe
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\CsvHelper.dll
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\Microsoft.Bcl.HashCode.dll
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\System.Memory.dll
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\System.Numerics.Vectors.dll
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\System.Buffers.dll
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\OO programming.pdb
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\OO programming.exe.config
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\CsvHelper.xml
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\System.Threading.Tasks.Extensions.xml
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\Microsoft.Bcl.HashCode.xml
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\System.Memory.xml
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\System.Numerics.Vectors.xml
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\System.Buffers.xml
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\obj\Debug\net472\TestProject.csproj.AssemblyReference.cache
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\obj\Debug\net472\TestProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\obj\Debug\net472\TestProject.dll.config
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\obj\Debug\net472\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\obj\Debug\net472\TestProject.AssemblyInfoInputs.cache
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\obj\Debug\net472\TestProject.AssemblyInfo.cs
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\obj\Debug\net472\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\obj\Debug\net472\TestProject.csproj.CopyComplete
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\obj\Debug\net472\TestProject.dll
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\obj\Debug\net472\TestProject.pdb
+C:\Users\sma04\source\repos\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\TestProject\bin\Debug\net472\OO programming.xml

@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sma04\\source\\repos\\Cl_OOProgramming_AE_Pro_Appx\\Part 3 application files\\TestProject\\TestProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sma04\\source\\repos\\Cl_OOProgramming_AE_Pro_Appx\\Part 3 application files\\OO programming\\OO programming.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sma04\\source\\repos\\Cl_OOProgramming_AE_Pro_Appx\\Part 3 application files\\OO programming\\OO programming.csproj",
+        "projectName": "OO programming",
+        "projectPath": "C:\\Users\\sma04\\source\\repos\\Cl_OOProgramming_AE_Pro_Appx\\Part 3 application files\\OO programming\\OO programming.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\sma04\\source\\repos\\Cl_OOProgramming_AE_Pro_Appx\\Part 3 application files\\TestProject\\TestProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sma04\\source\\repos\\Cl_OOProgramming_AE_Pro_Appx\\Part 3 application files\\TestProject\\TestProject.csproj",
+        "projectName": "TestProject",
+        "projectPath": "C:\\Users\\sma04\\source\\repos\\Cl_OOProgramming_AE_Pro_Appx\\Part 3 application files\\TestProject\\TestProject.csproj",
+        "packagesPath": "C:\\Users\\sma04\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sma04\\source\\repos\\Cl_OOProgramming_AE_Pro_Appx\\Part 3 application files\\TestProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sma04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\sma04\\source\\repos\\Cl_OOProgramming_AE_Pro_Appx\\Part 3 application files\\OO programming\\OO programming.csproj": {
+                "projectPath": "C:\\Users\\sma04\\source\\repos\\Cl_OOProgramming_AE_Pro_Appx\\Part 3 application files\\OO programming\\OO programming.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

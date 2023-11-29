@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OO programming</name>
+    </assembly>
+    <members>
+        <member name="M:OO_programming.Form1.button2_Click(System.Object,System.EventArgs)">
+            <summary>
+            Method for generating payslip and saving it in Desktop
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:OO_programming.Form1.GetTaxCoefficients(System.Double,System.Boolean)">
+            <summary>
+            Method for obtaining the values of coefficients 'a' and 'b'
+            </summary>
+            <param name="weeklyEarnings"> The amount earned in a week </param>
+            <param name="isTaxFreeThresholdClaimed"> Returns a boolean value of True or False  </param>
+            <returns></returns>
+        </member>
+        <member name="F:OO_programming.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:OO_programming.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:OO_programming.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:OO_programming.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:OO_programming.PaySlip">
+            <summary>
+            Class capture details accociated with an employee's pay slip record
+            This class represents the data structure of the CSV file
+            </summary>
+        </member>
+        <member name="T:OO_programming.PayCalculator">
+            <summary>
+            Base class to hold all Pay calculation functions
+            Default class behaviour is tax calculated with tax threshold applied
+            </summary>
+        </member>
+        <member name="T:OO_programming.PayCalculatorWithTaxFreeThresholdClaimed">
+            <summary>
+            Extends PayCalculator class handling No tax threshold
+            </summary>
+        </member>
+        <member name="T:OO_programming.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:OO_programming.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:OO_programming.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
